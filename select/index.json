@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ニア",
+  "base_artist": "桐谷遥",
+  "createdAt": "2025-12-03T08:18:04.518076Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジ・エンド・イズ・ニア",
+      "artist": "Primal Fear",
+      "has_synced": false,
+      "path": "select/01_ジ・エンド・イズ・ニア_Primal_Fear.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ニア (feat. 花里みのり&桐谷遥&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_ニア_(feat._花里みのり&桐谷遥&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ニア",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_ニア_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ニア",
+      "artist": "夏代孝明",
+      "has_synced": true,
+      "path": "select/04_ニア_夏代孝明.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ニア",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_ニア_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ニア (feat. 花里みのり&桐谷遥&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/06_ニア_(feat._花里みのり&桐谷遥&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ニア",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&初音ミク",
+      "has_synced": true,
+      "path": "select/07_ニア_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ニア",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/08_ニア_96猫.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ニア",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/09_ニア_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ニア",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": false,
+      "path": "select/10_ニア_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ニア (feat. Hanasato Minori & Kiritani Haruka & Hatsune Miku)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/11_ニア_(feat._Hanasato_Minori_&_Kiritani_Haruka_&_Hatsune_Miku)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ニア",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/12_ニア_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニア",
+      "artist": "桐谷遥",
+      "has_synced": false,
+      "path": "select/pl_01_ニア_桐谷遥.txt"
+    }
+  ]
+}
